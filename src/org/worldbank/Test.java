@@ -33,7 +33,7 @@ public class Test {
         List<Data> cities = new ArrayList();
 
         for (int j = 1; j < 3; j++) {
-            for (int i = 1; i < 40; i++) {
+            for (int i = 1; i < 41; i++) {
                     WebElement element;
                 try {
                     element = driver.findElement(By.xpath(".//*[@id='block-views-income_levels_countries-block_1']/div/div/div/table/tbody/tr[" + i + "]/td[" + j + "]/div/div/span/span/a"));
