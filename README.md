@@ -2,7 +2,6 @@
 
 Test Step Expected Result
 
-
 1 Open the world bank site in a firefox browser.
 www.worldbank.org >> World bank site home page should open.
 2 Click on the Data tab. >> It should navigate to World bank site Data tab.
